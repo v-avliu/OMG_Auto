@@ -21,7 +21,7 @@ numpy==1.19.1
 openpyxl==3.0.4
 pandas==1.1.0
 paramiko==2.7.1
-Pillow==7.2.0
+Pillow==8.3.2
 PyAutoGUI==0.9.50
 pycparser==2.20
 PyGetWindow==0.0.8
